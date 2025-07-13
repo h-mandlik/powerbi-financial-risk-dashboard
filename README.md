@@ -69,6 +69,19 @@ This project addresses real-world questions in financial lending, such as:
 
 ---
 
+## 🖼️ Dashboard Snapshots
+
+### 🔹 Page 1 – Loan Default & Overview
+![Page 1 – Loan Default & Overview](images/SQL_PBI_Project_1.png)
+
+### 🔹 Page 2 – Applicant Demographics and Financial Profile
+![Page 2 – Applicant Demographics](assets/SQL_PBI_Project_2.png)
+
+### 🔹 Page 3 – Financial Risk Metrics
+![Page 3 – Financial Risk Metrics](assets/SQL_PBI_Project_3.png)
+
+---
+
 ## 🔗 Live Dashboard
 
 👉 [📎 View the Power BI Dashboard](https://app.powerbi.com/links/PrculqM0W9?ctid=6d600138-0932-49bd-951c-0d8382b1ee74&pbi_source=linkShare&bookmarkGuid=d0596ffe-fa06-4184-8964-3b948c1259b5)
