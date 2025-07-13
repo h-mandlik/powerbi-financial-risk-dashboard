@@ -75,10 +75,10 @@ This project addresses real-world questions in financial lending, such as:
 ![Page 1 – Loan Default & Overview](images/SQL_PBI_Project_1.png)
 
 ### 🔹 Page 2 – Applicant Demographics and Financial Profile
-![Page 2 – Applicant Demographics](assets/SQL_PBI_Project_2.png)
+![Page 2 – Applicant Demographics](images/SQL_PBI_Project_2.png)
 
 ### 🔹 Page 3 – Financial Risk Metrics
-![Page 3 – Financial Risk Metrics](assets/SQL_PBI_Project_3.png)
+![Page 3 – Financial Risk Metrics](images/SQL_PBI_Project_3.png)
 
 ---
 
